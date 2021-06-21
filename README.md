@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/aTechGuide/gatsby-theme-blog-starter)
+
 # gatsby-theme-blog-starter
 
 <p align="center">
